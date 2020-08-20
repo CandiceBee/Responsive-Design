@@ -89,7 +89,6 @@ header nav a {
 	justify-content: space-between;
 	margin: 0 auto;
 	max-width: 1240px;
-	
 }
 
 .leftside {
@@ -137,6 +136,7 @@ header nav a {
 	align-items: center;
 	justify-content: space-evenly;
 	padding: 2rem;
+	/* flex: 2 2 auto; */
 }
 
 .Gallery img{
@@ -306,9 +306,6 @@ footer h2 {
 		max-height: auto;
 	}
 
-	header h1 {
-
-	}
 	header nav {
 		display: flex;
 		flex-flow: column;
